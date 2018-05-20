@@ -1,6 +1,6 @@
 # terraform-vpn-gcptoaws
 
-POC Hybrid Cloud Two Tier App
+# POC Hybrid Cloud Two Tier App
 
 ![Solution Diagram](diagram.png)
 
