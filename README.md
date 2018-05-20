@@ -2,7 +2,7 @@
 
 POC Hybrid Cloud Two Tier App
 
-![Solution Diagram](diagram.jpg)
+![Solution Diagram](diagram.png)
 
 ## Install
 
@@ -57,5 +57,7 @@ terraform destroy [-target="resource.name"] [-var-file="secrets.tfvars"]
 ### References
 
 [Google guide on VPN to AWS](https://cloud.google.com/solutions/automated-network-deployment-multicloud)
+
 [Example terraform code on Google VPN](https://github.com/GoogleCloudPlatform/autonetdeploy-multicloudvpn)
+
 [Step by step guide on setting up VPN in the consoles](https://jumpcloud.com/engineering-blog/connect-gce-and-aws/)
