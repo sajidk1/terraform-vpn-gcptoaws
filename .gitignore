@@ -1,0 +1,9 @@
+**/*.pem
+**/*.ppk
+**/*account.json
+**/secrets.tfvars
+**/terraform.tfstate
+**/terraform.tfstate.backup
+**/terraform.tfstate.lock.info
+**/plugins/*
+**/.terraform/*
