@@ -1,6 +1,6 @@
 # terraform-vpn-gcptoaws
 
-# POC Hybrid Cloud Two Tier App
+## POC Hybrid Cloud Two Tier App
 
 ![Solution Diagram](diagram.png)
 
@@ -51,8 +51,6 @@ terraform destroy [-target="resource.name"] [-var-file="secrets.tfvars"]
 **/.terraform/*
 
 ```
-
-**Ensure you have a .gitignore file populated as above!!!**
 
 ### References
 

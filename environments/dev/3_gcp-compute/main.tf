@@ -19,11 +19,8 @@ resource "google_compute_instance" "web" {
   }
 
   network_interface {
-    network = "default"
-
-    access_config {
-      // Ephemeral IP
-    }
+    network       = "default"
+    access_config = {}
   }
 
   # Upload template index.php

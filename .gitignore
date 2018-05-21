@@ -1,6 +1,6 @@
 **/*.pem
 **/*.ppk
-**/*account.json
+**/account.json
 **/secrets.tfvars
 **/terraform.tfstate
 **/terraform.tfstate.backup
