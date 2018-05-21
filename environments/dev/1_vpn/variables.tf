@@ -1,0 +1,9 @@
+variable "awsvpcid" {}
+variable "awsroutetableid" {}
+variable "gcpcidr" {}
+variable "awscidr" {}
+variable "aws_access_key" {}
+variable "aws_secret_key" {}
+variable "aws_region" {}
+variable "gcpregion" {}
+variable "gcpproject" {}
